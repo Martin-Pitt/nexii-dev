@@ -1,0 +1,24 @@
+{
+	"name": "nexii.dev",
+	"version": "1.0.0",
+	"description": "Personal website as Nexii.dev",
+	"homepage": "https://nexii.dev",
+	"keywords": [
+		"website"
+	],
+	"author": "Martin Pitt",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Martin-Pitt/nexii-dev.git"
+	},
+	"bugs": {
+		"url" : "https://github.com/Martin-Pitt/nexii-dev/issues"
+	},
+	"main": "_site/index.html",
+	"scripts": {
+		"start": "jekyll s -w",
+		"build": "jekyll b",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
