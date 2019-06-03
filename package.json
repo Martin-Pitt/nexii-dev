@@ -10,10 +10,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:Martin-Pitt/nexii-dev.git"
+		"url": "git@github.com:Martin-Pitt/nexii.dev.git"
 	},
 	"bugs": {
-		"url" : "https://github.com/Martin-Pitt/nexii-dev/issues"
+		"url" : "https://github.com/Martin-Pitt/nexii.dev/issues"
 	},
 	"main": "_site/index.html",
 	"scripts": {
