@@ -16,6 +16,9 @@ plugins:
     - jekyll-feed
 keep_files: ["assets/"]
 
+# Serve Settings
+port: 1500
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
